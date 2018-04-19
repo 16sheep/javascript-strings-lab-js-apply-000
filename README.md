@@ -87,7 +87,11 @@ var greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
+<<<<<<< HEAD
 var greetSpecialGuest = 'Hello, ' + specialGuest + "!";
+=======
+var greetSpecialGuest = greeting + specialGuest + "!";
+>>>>>>> cd1d959bf67443bd509afc706227a0ee91de3b35
 
 var topic = "Let\'s talk about space.";
 
